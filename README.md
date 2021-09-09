@@ -1,6 +1,6 @@
 # expressJS
 
-##npm i
+# npm i
 ```
 Instalar componentes
 ```
